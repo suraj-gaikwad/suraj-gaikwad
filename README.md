@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @suraj-gaikwad
+<p align="center">
+    </br>👋 Hi, I’m @suraj-gaikwad.
+    </br>Welcome to my repo.
+    </br><img src="./svg_bulb.png" width="100">
+</p>
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
