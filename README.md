@@ -1,6 +1,6 @@
 <p align="center">
     </br>👋 Hi, I’m @suraj-gaikwad.
-    </br>Welcome to my repo.
+    </br>Welcome to my Git profile.
     </br><img src="./Misc/SVG_Bulb.gif" width="100">
 </p>
 
