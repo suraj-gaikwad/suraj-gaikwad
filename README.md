@@ -1,7 +1,7 @@
 <p align="center">
     </br>👋 Hi, I’m @suraj-gaikwad.
     </br>Welcome to my repo.
-    </br><img src="./svg_bulb.png" width="100">
+    </br><img src="./Misc/svg_bulb.gif" width="100">
 </p>
 
 <!---
